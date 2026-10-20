@@ -22,7 +22,7 @@ In Norse myth, Sköll is the wolf who chases the sun across the sky, and his bro
 | Game | |
 | --- | --- |
 | [**Bone Idle**](https://store.steampowered.com/app/5221700/Bone_Idle/) | Put the dead to work. Out now on Steam. |
-| [**Mining Miner**](https://store.steampowered.com/app/2303330/Mining_Miner/) | 3,000 metres of rock under your feet. Early Access on Steam. |
+| [**Mining Miner**](https://store.steampowered.com/app/2303330/Mining_Miner/) | 3,000 metres of rock under your feet. Early Access on Steam. Made with [MTSU](https://mtsu.dev) ([GitHub](https://github.com/mtsu-dev)). |
 
 ### Open source
 
